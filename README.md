@@ -417,13 +417,3 @@ Yes, but only until expiry.
 MIT License
 Free for commercial and personal use.
 
----
-
-If you want, next I can:
-
-* generate **example repo with tags & releases**
-* write **contributing guidelines**
-* add **roadmap & issues**
-* help you publish this to **Cloudflare Dev community**
-
-Just say 👍
